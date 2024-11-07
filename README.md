@@ -6,7 +6,7 @@
 This project is a basic starter template for Node.js applications, providing a clean structure for server configurations, APIs, sockets, templates, and static files such as images and videos. This template helps you kickstart your new projects quickly and manage them easily.
 
 
-### نحوه ی استارت کردن پروژه & How to start the project
+## نحوه ی استارت کردن پروژه & How to start the project
 For install library | برای نصب کتابخونه های استفاده شده 
 ```TERMINAL
 npm i
