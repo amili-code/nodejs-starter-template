@@ -4,3 +4,20 @@
 
 # nodejs-starter-template
 This project is a basic starter template for Node.js applications, providing a clean structure for server configurations, APIs, sockets, templates, and static files such as images and videos. This template helps you kickstart your new projects quickly and manage them easily.
+
+
+### نحوه ی استارت کردن پروه & install
+For install library | برای نصب کتابخونه های استفاده شده 
+```TERMINAL
+npm i
+```
+For start with nodemon in develop mode | برای شروع در محیط توسعه به کمک nodemon
+```TERMINAL
+npm test
+```
+For start project in production mode | برای اجرا در حالت نهایی و خروجی کار
+```TERMINAL
+npm start
+```
+
+If it was useful for you, please give me a star❤️⭐
